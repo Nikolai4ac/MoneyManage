@@ -1,4 +1,5 @@
 # 🚀 Node.js + TypeScript + Express Starter
+![License: PolyForm Noncommercial](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)
 
 Modern backend starter using **Express 5**, **TypeScript**, **MongoDB (Mongoose)** and **ES Modules**.
 
@@ -123,4 +124,6 @@ PRs are welcome.
 ---
 
 ## 📜 License
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
 
+Commercial use is not permitted.
